@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new answer to a speech said to be lately made by a noble peer of this realm</title>
+            <author>J. E.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46925</idno>
+            <idno type="STC">Wing J8</idno>
+            <idno type="STC">ESTC R1518</idno>
+            <idno type="EEBO-CITATION">13069410</idno>
+            <idno type="OCLC">ocm 13069410</idno>
+            <idno type="VID">97102</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46925)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97102)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 742:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new answer to a speech said to be lately made by a noble peer of this realm</title>
+                  <author>J. E.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p., double columns)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1681?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Signed: E.J.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="response">
+            <pb facs="tcp:97102:1" rendition="simple:additions"/>
+            <head>A New ANSWER TO A SPEECH ſaid to be lately made by a Noble PEER of this REALM.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Very much wonder that the Kings Speech, that was ſo ſhort and moderate, as though his Maje<g ref="char:EOLhyphen"/>ſty was loath to offend with too many Circumſtances; and ſure I am, if the care of his King<g ref="char:EOLhyphen"/>dom had not compelled him, he would not have troubled your Honours with any; there<g ref="char:EOLhyphen"/>fore I much wonder you return'd His Majeſty ſuch an Anſwer, which never was ſpoken by any Peer to a King or in his preſence: therefore I can hardly believe any Peer of this Realm would ſo ſpeak; becauſe it is to be ſuppoſed that your Wiſdom ſhould teach you better things, than to go above your Element: for God never gave ſuch power, no not to his Church; but to ſubmit to all Authority: Nay Chriſt himſelf ſubmitted for Ex<g ref="char:EOLhyphen"/>amples ſake, and I am ſure that the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> hath no ſuch Principles; but the Whore of <hi>Baby<g ref="char:EOLhyphen"/>lon,</hi> and the <hi>Pope,</hi> and <hi>Antichriſt,</hi> is known to uſurp Authority over Kings and Princes, and compels them to go againſt their Conſcience for their own Intereſt; but the Primitive Chriſtians were known by their puri<g ref="char:EOLhyphen"/>ty: and if their Prince did command them any thing that was againſt their Conſcience, they would ſacrifice their lives rather than to offend God or Man; but God be thanked this is not our Caſe, why then ſhould any one be ſo jealous without a Cauſe, when God out of his infinite Goodneſs hath given us a Proteſtant King, that abhors the Superſtition and Idolatry of the Church of <hi>Rome?</hi> Give me leave, Sir, to ſpeak a little in this matter; for I know if the King was not a true ſincere Proteſtant, he would never have hearkened to a poor Subject, who about 9 or 10 years ago was by chance compelled to have ſome Diſcourſe with a Roman Catholick; who finding her not eaſily to be perſwaded, they imployed others, to try if the could perſwade her, ſometimes lifting her up to Heaven, ſometimes flinging her down to Hell; but when they ſaw that neither flat<g ref="char:EOLhyphen"/>teries nor threats would move her to incline or hearken to their pernicious Principles, they fell out a railing, ſaying, <hi>We were all Hereticks from the higheſt to the loweſt.</hi> At which words the Woman was ſadly trou<g ref="char:EOLhyphen"/>bled, and was reſolved after few days to ſhew it to the King, who graciouſly received her Petition. <hi>Though his Majeſty could not tell what to do in the matter, and notwithſtanding their Plottings were not manifeſted,</hi> within a few days the King put out a Proclamation; by which he delivered the Woman from her Spiritual Adverſaries; who ſhall ever ſpeak of his praiſe, and does think it a great ſin to ſpeak againſt the Lords Annointed, or to think much of what God hath given him. No Prince in the World liveth meaner than he doth, therefore it would be a madneſs to deſire that to be leſs that is too little already. I much wonder, Sir, you preſs ſo hard for the pleaſing of the People, which is unpoſſible, for <hi>David</hi> ſaith, <hi>It is God ſub<g ref="char:EOLhyphen"/>dued the People unto me.</hi> But I much wonder your Honour being ſo Good, ſo Wiſe, and ſo Holy, do forget God in all your Speech. Now it would have been the joy of my Soul that his Majeſty had been ſo happy as to enjoy a true Proteſtant Wife, but ſuch is the misfortune of Kings and Princes, that they have not that liberty as their Subjects have, to take where they like beſt, but they muſt be confined to many diſadvan<g ref="char:EOLhyphen"/>tages; ſo that his Majeſty who ſhould be in perfect free<g ref="char:EOLhyphen"/>dom, is more confined then any.</p>
+            <p>May it pleaſe your Honour, ſince the caſe ſtands ſo, there is no body much to blame; but however, curſed are them that part Man and Wife: And as for charge<g ref="char:EOLhyphen"/>able Ladies, God forbid that we ſhould deſire the de<g ref="char:EOLhyphen"/>ſtruction of their Souls, that they ſhould be a Sacrifice to the People.</p>
+            <p>Sir, you ſay there will be a change, but I wonder what change you mean, if you mean as you declare, againſt Popiſh Favourites, or Popiſh Miſtriſſes, and Popiſh Councellors; if it be ſo that you ſincerely de<g ref="char:EOLhyphen"/>ſire it for Gods Glory, and for the Good of his Ma<g ref="char:EOLhyphen"/>jeſty, and for the Example of others, I ſincerely deſire it my ſelf, and I am certain there is no true Chriſtian in the World but heartily deſires the ſame. But, Sir, may not you be under a miſtake, in ſuppoſing them to be Popiſhly inclined that are not; for it is Crime enough to be a Courtier as the World goes now, as though all Courtiers of neceſſity muſt be evil, though they are never ſo good; for I dare to ſay there is as many good Souls (for quantity) there as in the City; and it is the heighth of my deſire, that as they exceed others in Greatneſs, they may exceed them in Goodneſs: and I am ſure there is no good Soul but would ſay <hi>Amen</hi> to that. But who is able to work this Change? None but God alone; for the Almighty has ſaid, <hi>The Tares and the Wheat ſhall grow together till the Harveſt; and then he will ſend his Angels:</hi> and methinks you ſpeak like a Man and not like an Angel; becauſe the Nature of Angels is to rejoyce at New Converts.</p>
+            <p>Sir, I know not who you mean, that is a Lady, and belongs not to the Court, that is ſo miſchievous; ſure if I knew her, I ſhould be her Enemy, if ſhe be as miſchie<g ref="char:EOLhyphen"/>vous as you ſay.</p>
+            <p>And for the Kings Diſtreſs, I hope God will give him ſuch Courage and Innocency, that he need not fear his Enemies abroad nor at home; and why is your Honour ſo fearful, for when the ways of men pleaſe God, he makes their Enemies to be at peace with them.</p>
+            <p>But, Sir, as to the greateſt Influence in your preſent Councils, let it be the fear of God, that his Wiſdom may make you wiſe, to ſearch out the matter; for your Honours may think to do great matters, and without the aſſiſtance of God perform nothing; and if ſo, how will the King be ſupplied?</p>
+            <p>And as for the Houſe of Commons, I hope God will give them ſuch Wiſdom and Goodneſs, as they ſhall ne<g ref="char:EOLhyphen"/>ver offer to the King any thing that His Majeſty ſhall not think worth anſwering.</p>
+            <p>If the King ſhould fall into any Inconvenience, for want of your Aid and Aſſiſtance, would it not be thought that you are ungrateful People; that would not help your King in his neceſſities, even Gods Anointed; would not this juſtly provoke the Al<g ref="char:EOLhyphen"/>mighties Anger to deliver us up to believe Lies; for what hath provoked the Lord, but Sin and Wickedneſs, and Diſtruſting of his Providence in Governing the World. If the Lord be your God, ſtudy to appeaſe his Anger; for if you were zealous, and in good earneſt loved God truly, how could you ſuffer ſuch Antichriſtian Actions in a Chriſtian City, as the Picking up Men and Wo<g ref="char:EOLhyphen"/>men in the Streets, which is the Ruin of many Fami<g ref="char:EOLhyphen"/>lies, and the Deſtroying of Youth: the very Motion of this Wickedneſs every Good Chriſtian ought to abhor. So that there is a neceſſity laid upon you, firſt by diſ<g ref="char:EOLhyphen"/>couraging and puniſhing all known Evils in your ſelves and out of your ſelves, both at home and abroad. Then will God make you acceptable in his ſight, that you may be helpful to His Majeſty, both for Soul and Bo<g ref="char:EOLhyphen"/>dy; but whilſt you have Jealouſies and Ill Thoughts, how is it poſſible for His Majeſty to joyn with you; for I dare to ſay you have no cauſe to diſtruſt him: and that I do really think that he is a Prince that ſcorns to de<g ref="char:EOLhyphen"/>ceive, therefore I much wonder how you dare to ſay you can't truſt him: but I am certain his Majeſty has been diſappointed many times of his hopes; for when his Majeſty expected Figs he found Thiſtles: And as for diſcontented Perſons, the Lord help them, for the Court cannot. And why ſhould you be ſo unkind
+<pb facs="tcp:97102:2" rendition="simple:additions"/>to ſo excellent a Prince, whom you ſay your ſelf no Story affords us a parallel, and truly no more there don't; for was there ever any King came into his Throne with ſuch an Arm of Providence, and with ſuch great Splendor and Glory. Therefore his Ma<g ref="char:EOLhyphen"/>jeſty can't forget the infinite Mercies of God in pre<g ref="char:EOLhyphen"/>ſerving him, and that Goodneſs doth teach him to imitate Chriſt, who was kind to his Enemies, even to his Murderers; and as for the Kings Murderers, God will ſend them to Hell, and all that forgets God, as <hi>David</hi> ſaith: and I am ſure whoever has a deſign to deſtroy his Majeſty, muſt of neceſſity forget God: And for his Thoughts none is able to judge how much or how little his Majeſty is concerned. And for the Tranſ<g ref="char:EOLhyphen"/>actions between him and his Brother, you ſay they are admirable, and indeed ſo they be, but not for miſ<g ref="char:EOLhyphen"/>chief, but for love and unity; the excellency of that <hi>David</hi> has declared, who ſaith, <hi>It is more precious than</hi> Aarons <hi>Oyl.</hi> 'Tis not for a King to declare whom he fears or whom he not fears; it is prudence in his Ma<g ref="char:EOLhyphen"/>jeſty to love his Brother; but if his Royal Highneſs had ſuch early thoughts of aiming at the Crown, many times 'tis the Wiſdom of God to diſappoint Princes of their expectation as well as ordinary Men. And if his Royal Highneſs be treacherous, ſhall not God find it out? But if he be innocent, God forbid that we ſhould impoſe that upon him that we are not willing to ſuf<g ref="char:EOLhyphen"/>fer our ſelves.</p>
+            <p>Sir, I much wonder that you reflect upon the Duke of <hi>York,</hi> in the making of Biſhops, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> though his pre<g ref="char:EOLunhyphen"/>ſence had more operation to infect them with Pope<g ref="char:EOLhyphen"/>ry, than their own Conſcienee, Knowledge of the Truth, Love of God, and the preſence of all others, to continue them good Proteſtants; which I nor any elſe can ever believe.</p>
+            <p>You ſay, This Prince changed his Religion to make himſelf a Party, and ſuch a Party as would deſtroy the King his Brother; certainly the Duke muſt be out of his ſenſes, that would joyn with ſuch a Party; for he might well be aſſured that God would not let Murther go unrevenged; and that he ſhould meet with a far more numerous Party to oppoſe him: Therefore I can<g ref="char:EOLhyphen"/>not believe that the Duke is ſo guilty as ſome would have him. Beſides, I have heard him proteſt that he is inno<g ref="char:EOLhyphen"/>cent, and that if he had a Thouſand lives, he would loſe them all to defend the King his Brother. I am apt to believe him by what I hear you ſay, That he ſhould ſo long have his Lodgings at <hi>Whitehall,</hi> his Guards upon the ſame Floor, without any interpoſition between him and the King; ſo that the King was in his hands. Cer<g ref="char:EOLhyphen"/>tainly if he had been ſo gaceleſs and wicked, what op<g ref="char:EOLhyphen"/>portunities had he to accompliſh ſuch Devilliſh Deſigns many year ago. But God forbid that the Duke ſhould have ſuch thoughts.</p>
+            <p>And as touching the Kings Behaviour, the World, as you ſay, knows very well, and truly ſo it does; for ne<g ref="char:EOLhyphen"/>ver any King in this world governed with greater mo<g ref="char:EOLhyphen"/>deration than he doth towards all men; which beſpeaks His Majeſty to be a very Gracious Prince, and one that feareth no hurt, becauſe he doeth none. Therefore you have great reaſon not to doubt the King or the Court, or to imagine that the King could ever think Presbyterians to be Plotters, who pretend to ſo much zeal and loyal<g ref="char:EOLhyphen"/>ty for His Majeſties Intereſt. The Papiſts may plot to inlarge the Popes Dominions and to think to merit Hea<g ref="char:EOLhyphen"/>ven, but what can the Presbyterians plot for?</p>
+            <p>Sir, You wonder at a Parliament, and cannot under<g ref="char:EOLhyphen"/>ſtand the Riddle of it, ſurely it is not ſo hard, but your Wiſdom may unfold greater Myſteries.</p>
+            <p>And for the Duke's going away, I dare to think he would rather have ſtaid, if he might have had that happineſs; but to prevent unquietneſs he went, though unwillingly; and can his Highneſs go to a better place than <hi>Scotland,</hi> for their zeal againſt Popery is known of old; and you need not fear a Popiſh Army coming from thence, for I hope they may be Inſtrumental to make him a Convert; for I believe he is not ſo popiſhly incli<g ref="char:EOLhyphen"/>ned as you imagine.</p>
+            <p>Let us leave our Sins, and put our whole truſt in God, and forſake our Sins; and not reflect upon His Majeſty for any thing that is done; for I am certain the King will do nothing but what is for his own ſafety and your good: And how contrary is it to reaſon, that a King ſhould betray himſelf; and what advantage would it bring him? Is not his ſafety the Peoples ſafety, and the Peoples ſafety his ſafety? Far is it from the Kings thoughts to think to ſet up Popery and Arbitrary Go<g ref="char:EOLhyphen"/>vernment. Your Lordſhip can't but know how that he is not Ambitious, but contents himſelf with mean things; and deſires no greater Treaſure in this World but Peace, Love, and Unity.</p>
+            <p>Why then does your Lordſhip ſay you want a Gover<g ref="char:EOLhyphen"/>nour and a Prince that you may truſt for ſome time, as though this Nation would not always want a Governor; certainly you can have no thoughts of any other, and if no other, Why ſhould your Honour diſincourage this with Fears and Jealouſies? It was the Puniſhment of <hi>Cain</hi> to ſuppoſe that every one that met him ſhould kill him, when God had ordered to the contrary; who was the Firſt Antichriſtian in the World, and the Root of Po<g ref="char:EOLhyphen"/>pery. Your Honour may ſeriouſly conſider what dif<g ref="char:EOLhyphen"/>ference there is between a true Chriſtian and an Anti-Chriſtian; for one puts his truſt in God, the other in Man, and God cannot give a greater gift to Mortals, then to make them true Chriſtians. I hope the King will never change his Government, nor break the Oath that he has taken. Therefore if your Honour is a true Church-man, according as it is now Eſtabliſhed by Law, you need not fear but the King is yours: Truly I may ſay that he is a true Lover of all his People, di<g ref="char:EOLhyphen"/>ſtinquiſhed, by what Name ſoever; for he is ſo truly Vertuous that he loves all: and that is the Reaſon that His Majeſty can ſcarce Puniſh any, but thinks that his Mildneſs and Sweetneſs would move them the more to love him. Would to God that you were his ſo much as he is yours: For the growing greatneſs of <hi>France</hi> we ſhan't have no need to fear, if we have but Unity among our ſelves. Why ſhould we not be Chriſtians as well by Nature as by Name, and if it hath not been uſual in <hi>England,</hi> for a Prince to want Supplies, why now? For it is not lawful neither by the Law of God or Man, not to afford his Majeſty ſuch Supports, as may be for the good of the Nation. His Majeſty ſcorns the very thoughts to make his Peoples Slaves or Papiſts. I be<g ref="char:EOLhyphen"/>ſeech your Honours think not Evil of Miniſters who are Gods Meſſengers, though their Arguments don't pleaſe you; neither put you too much confidence in your Treaſure, leaſt God ſhould blaſt it with a Curſe. There is no need for any man to fear the Kings Fidelity, for he is reſolved to Die in Defence of the true Prote<g ref="char:EOLhyphen"/>ſtants of the Church of <hi>England,</hi> therefore <hi>I</hi> much wonder what Principles you mean the King muſt change: certainly it is not the Principles of his Religion; for if it be ſo, His Majeſty had better want your Aſſiſtance, then ſubmit to ſuch Impoſitions; for certainly I ſhould, think then that Gods Wrath ſhould deſtroy us for chang<g ref="char:EOLhyphen"/>ing our Principles for a little money. That is that as the Devil and the Pope would have, but we will Sacrifice our Lives, rather than change the leaſt Tittle contrary to Gods Will. We have been bereav'd of one King already and of our Religion too, and now how many does envy our happineſs, and would fain make us believe he is not ours, and that is the ready way they may bereave us of him, by taking away his good Name. Now Sir if you would oblige me to think well of you, you muſt love His Majeſty your ſelf, and exhort all others to love him; for that is the way through Gods Bleſſing to make us all happy.</p>
+            <p>Noble Sir, I ſhould not have ſpoke ſo much at this time, but that I could not reſt ſatisfied that my Sovereign ſhould be thought ſo hardly of; becauſe I am ſure His Majeſty doth not deſerve it: and I hope I ſhall obtain your Candid Cenſures to pardon her who is a zealous Lover of her King and Countrey, and longeth for the happineſs of every Individual Soul, as much as for her own; hoping the Almighty will accept of my ſincere, though weak endeavours, to defend my Sovereign according to my knowledge; for I hope no body ſhall have cauſe to ſay I have ſpoke an Untruth.</p>
+            <closer>
+               <signed>
+                  <hi>I am your humble Servant and Souls Well-wiſher,</hi> E. J.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
